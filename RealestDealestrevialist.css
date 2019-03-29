@@ -6,13 +6,17 @@ body {
 }
 #arr-col1{
     float: left;
+    font-size: 240px;
     width: 15%;
-    height: 300px;
+    height: 320px;
+    text-align: center;
 }
 #arr-col2{
     float: left;
+    font-size: 250px;
     width: 15%;
-    height: 300px;
+    height: 320px;
+    text-align: center;
 }
 .divimage {
     width: 100%;
@@ -24,7 +28,6 @@ display: table;
 }
 #column1 {
     font: 1em arial;
-    font-size: 300px;
     color: rgb(236, 236, 236);
     background-color: rgb(20, 20, 20);
     background-color: rgb(20, 20, 20);
@@ -32,7 +35,6 @@ display: table;
 }
 #column3 {
     font: 1em arial;
-    font-size: 300px;
     color: rgb(236, 236, 236);
     background-color: rgb(20, 20, 20);
     background-color: rgb(20, 20, 20);
@@ -313,4 +315,11 @@ h1 {
     font: 1em arial;
     font-size: 22px;
     cursor: pointer;
+}
+#img-button {
+    text-align-last: center;
+    color: white;
+    background-color: rgb(20, 20, 20);
+    font-size: 20px;
+    margin-top: 10px;
 }
