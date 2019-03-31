@@ -310,6 +310,7 @@ h1 {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
+    margin-bottom: 15px;
 }
 .category-title {
     font: 1em arial;
